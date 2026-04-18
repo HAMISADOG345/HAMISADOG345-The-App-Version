@@ -13,3 +13,4 @@ what u r looking for is in the one labeled game
     bruh.innerHTML=`<p>omg u actully pressed it</p>`
   }
 </script>
+<h1>why is my button not working they told me i could scam people with READMEs</h1>
